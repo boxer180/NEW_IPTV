@@ -29,14 +29,10 @@ https://vgtrkregion-reg.cdnvideo.ru/vgtrk/vladikavkaz/russia1-sd/index.m3u8
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/vladimir/russia1-sd/index.m3u8
 #EXTINF:-1 group-title="Эфирные",Россия К
 http://radio-live-mg.rtr-vesti.ru/live/smil:russiak.smil/variant.m3u8
-#EXTINF:-1 group-title="Эфирные",PEH TB HD
-http://rr2.1ott.net/~109e1a3c05fcad5b22d13b9453dc0db5122/125/hlsx/pl.m3u8
 #EXTINF:-1 group-title="Эфирные",РЕН ТВ
 http://s18209.cdn.ngenix.net/hls/CH_R02_RENTV/playlist.m3u8
 #EXTINF:-1 group-title="Эфирные",НТВ HD
 https://cdn.ntv.ru/ntv-msk_hd/tracks-v1a1/playlist.m3u8
-#EXTINF:-1 group-title="Эфирные",НТВ 
-http://dmi3y-tv.ru/hls/T2/CH_NTV.m3u8
 #EXTINF:-1 group-title="Эфирные",НТВ мир 
 https://ucdn.beetv.kz/btv/live/hls/000000079.m3u8
 #EXTINF:-1 group-title="Эфирные",ТВЦ
